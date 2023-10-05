@@ -1,0 +1,139 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Contributors</title>
+    <link href='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css' rel='stylesheet'>
+    <link href='https://use.fontawesome.com/releases/v5.8.1/css/all.css' rel='stylesheet'>
+    <style>
+        .card-img-top {
+            max-height: 250px;
+            overflow: hidden;
+        }
+
+        .card-title a:link {
+            font-size: 30px;
+            background-color: transparent;
+            color: #000000;
+            text-decoration: none;
+        }
+
+        .card-title a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+
+        .header img {
+            width: auto;
+            max-height: 60px; /* Set the maximum height you want */
+            display: block;
+           
+            margin-right: auto;
+        }
+
+        .header-text {
+            margin-left: 40%;
+            margin-right: 5%;
+        }
+
+        /* Responsive styles for header */
+        @media (max-width: 767px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .header img {
+            width: auto;
+            max-height: 60px; /* Set the maximum height you want */
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+            .header-text {
+                margin-left: 0;
+                margin-top: 10px;
+            }
+        }
+    </style>
+    <script type='text/javascript' src=''></script>
+    <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js'></script>
+    <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'></script>
+</head>
+<body oncontextmenu='return false' class='snippet-body'>
+    <div class="header">
+        <!-- Hacktoberfest Logo -->
+        <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
+            <img src="./hacktoberfest_logo.png" alt="Hacktoberfest Logo">
+          </a>
+        <!-- Header Text -->
+        <div class="header-text">
+            <h1>PARTICIPANTS</h1>
+        </div>
+    </div>
+
+    <section class="bg-light py-4 my-5">
+        <div class="container">
+            <div class="row" id="cardContainer">
+                <!-- Cards will be dynamically added here -->
+            </div>
+        </div>
+    </section>
+
+    <script src="contributors.js"></script>
+    <script>
+        
+        const cardContainer = document.getElementById('cardContainer');
+
+        contributors.forEach(contributor => {
+            const cardCol = document.createElement('div');
+            cardCol.className = 'col-md-6 col-lg-4';
+
+            const card = document.createElement('div');
+            card.className = 'card my-3';
+
+            const img = document.createElement('img');
+            img.src = contributor.imgSrc;
+            img.className = 'card-img-top';
+            img.alt = 'thumbnail';
+
+            const cardBody = document.createElement('div');
+            cardBody.className = 'card-body';
+
+            const cardTitle = document.createElement('h3');
+            cardTitle.className = 'card-title';
+            const titleLink = document.createElement('a');
+            titleLink.href = contributor.github; // Link to GitHub
+            titleLink.target = '_blank'; // Open in new tab
+            titleLink.className = 'text-secondary';
+            titleLink.textContent = contributor.title;
+            cardTitle.appendChild(titleLink);
+
+            const cardText = document.createElement('p');
+            cardText.className = 'card-text';
+            cardText.textContent = contributor.description;
+
+            cardBody.appendChild(cardTitle);
+            cardBody.appendChild(cardText);
+
+            card.appendChild(img);
+            card.appendChild(cardBody);
+
+            cardCol.appendChild(card);
+
+            cardContainer.appendChild(cardCol);
+        });
+    </script>
+</body>
+</html>
