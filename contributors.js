@@ -8,6 +8,15 @@ const contributors = [
 
     },
 
+    
+    {
+        imgSrc: 'images/Keerthana.jpg',
+        title: 'Keerthana S',
+        description: 'Just learning and growing!',
+        github: 'https://github.com/Keerthana20-04'
+    },
+
+
     {
         imgSrc: 'images/Diya.jpg',
         title: 'DIYA K SAJITH',
@@ -27,12 +36,13 @@ const contributors = [
 
 
     {
-        imgSrc: '/workspaces/githober2023/images/Kanishka c.jpg',
+        imgSrc: 'images/Kanishka c.jpg',
         title: 'KANISHKA C',
         description: 'Self love',
         github: 'https://github.com/Kanishka-nssce'
     },
   
+
 
     // Add more contributors here as needed
     /*
