@@ -10,7 +10,9 @@ const contributors = [
         title: 'Theertha santhosh',
         description: 'hello..!!!',
         github: 'https://github.com/Theertha-santhosh/githober2023.git'
-    }
+            
+        }
+    
 
     // Add more contributors here as needed
     /*
