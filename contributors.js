@@ -4,7 +4,14 @@ const contributors = [
         title: 'Sreejith M Varma',
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
-    }
+
+    },
+    {
+        imgSrc: '/workspaces/githober2023/images/Kanishka c.jpg',
+        title: 'KANISHKA C',
+        description: 'Self love',
+        github: 'https://github.com/Kanishka-nssce'
+    },
     // Add more contributors here as needed
     /*
     
@@ -17,7 +24,7 @@ const contributors = [
     }
     
     
-    */,
+*/
     {
 
         imgSrc: 'images/Aswini ks.jpg',
@@ -51,7 +58,7 @@ const contributors = [
   
   
   
-  {
+    {
         imgSrc: 'images/Ashish.jpg',
         title: 'Ashish',
         description: 'WHATS IN YOUR MIND?',
@@ -92,6 +99,7 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 
 
 ];
