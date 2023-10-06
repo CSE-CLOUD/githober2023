@@ -30,6 +30,14 @@ const contributors = [
     },
 
     {
+        imgSrc: 'images/IMG_20231006_151813.jpg',
+        title: 'Aleena Joseph',
+        description: 'It is to explore',
+        github: 'https://github.com/aleena12joseph'
+    },
+
+
+    {
         imgSrc: 'images/namitab.jpg',
         title: 'Namita B',
         description: 'It Was A good Day',
@@ -78,9 +86,6 @@ const contributors = [
         github: 'https://github.com/Kanishka-nssce'
     },
   
-
-
-
 
     // Add more contributors here as needed
     
@@ -138,7 +143,7 @@ const contributors = [
         title: 'Fathima K',
         description: 'Hey Collagues, Willing to Contribute!!',
         github: 'https://github.com/FKTech123'
-    }
+    },
 
     {
         imgSrc: 'images/stretched-1920-1080-10323182.png',
@@ -156,7 +161,7 @@ const contributors = [
         description: 'WHATS IN YOUR MIND?',
         github: 'https://github.com/ASHISH-28-02'
     },
-    
+
 
     {
         imgSrc: 'images/flw (1).jpg',
@@ -208,6 +213,7 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 
 ];
 
