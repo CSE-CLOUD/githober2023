@@ -20,6 +20,14 @@ const contributors = [
         github: 'https://github.com/sabarirnadh/githober2023'
     },
     
+
+    {
+        imgSrc: 'images/stretched-1920-1080-10323182.png',
+        title: 'MESSI',
+        description: 'KING 👑',
+        github: 'https://github.com/arunvelloden'
+    },
+
   
   
   
@@ -36,6 +44,7 @@ const contributors = [
         description: 'HELLO WORLD',
         github: 'https://github.com/Rayhana27'
     },
+
 
     // Add more contributors here as needed
     /*
