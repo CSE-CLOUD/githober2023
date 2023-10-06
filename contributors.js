@@ -8,6 +8,15 @@ const contributors = [
 
     },
 
+    {
+        imgSrc: 'images/Diya.jpg',
+        title: 'DIYA K SAJITH',
+        description: 'It is often the small steps,not the giant leaps,that bring about the most lasting changes',
+        github: 'https://github.com/Diyaksajith'
+    },
+   
+
+
      
     {
         imgSrc: 'images/1696584476904.jpg',
@@ -24,6 +33,7 @@ const contributors = [
         github: 'https://github.com/Kanishka-nssce'
     },
   
+
     // Add more contributors here as needed
     /*
     
