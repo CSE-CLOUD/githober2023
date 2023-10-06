@@ -81,6 +81,14 @@ const contributors = [
         github: 'https://github.com/ASHISH-28-02'
     },
     
+
+    {
+        imgSrc: 'images/merin.jpeg',
+        title: 'MERIN P R',
+        description: 'hey friends..!!',
+        github: 'https://github.com/Merin38pr'
+    },
+
     {
         imgSrc: 'images/Rayhana.jpg',
         title: 'RAYHANA S',
