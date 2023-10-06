@@ -6,6 +6,12 @@ const contributors = [
         github: 'https://github.com/SreejithMVarma'
     },
     
+    {
+        imgSrc: 'images/Fathima K.jpg',
+        title: 'Fathima K',
+        description: 'Hey Collagues, Willing to Contribute!!',
+        github: 'https://github.com/FKTech123'
+    }
 
     // Add more contributors here as needed
     /*
