@@ -6,11 +6,19 @@ const contributors = [
         github: 'https://github.com/SreejithMVarma'
     },
     {
+
+        imgSrc: 'images/icon.png',
+        title: 'Nayanjith',
+        description: 'Coding time',
+        github: 'https://github.com/rcDARK'
+    },
+
+    {
         imgSrc: 'images/sabari.webp',
         title: 'sabari',
         description: 'r',
         github: 'https://github.com/sabarirnadh/githober2023'
-    }
+    },
     
   
   
@@ -28,6 +36,7 @@ const contributors = [
         description: 'HELLO WORLD',
         github: 'https://github.com/Rayhana27'
     },
+
     // Add more contributors here as needed
     /*
     
