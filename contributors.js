@@ -20,6 +20,12 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: 'images/flw (1).jpg',
+        title: 'KARISHMA PK',
+        description: 'GITHOBER 2023 ',
+        github: 'https://github.com/karishmapk/githober2023.git'
+    }
 ];
 
 
