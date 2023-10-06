@@ -32,7 +32,7 @@ const contributors = [
     {
         imgSrc: 'images/theertha.jpg',
         title: 'Theertha santhosh',
-        description: 'hello..!!!',
+        description: 'Currently studying in Nss college of engineering',
         github: 'https://github.com/Theertha-santhosh/githober2023.git'
     },
     {
@@ -83,12 +83,7 @@ const contributors = [
         description: 'THERE IS NOTHING YOU CAN DO',
         github: 'https://github.com/G0Dc0mpL3Xx'
     },
-    {
-        imgSrc: '/images/theertha.jpg',
-        title: 'THEERTHA SANTHOSH',
-        description: 'Currently studying in Nss college of engineering',
-        github: 'https://github.com/Theertha-santhosh/githober2023.git'
-    },
+    
     {
         imgSrc: 'images/image NAVIYA.jpeg ',
         title: 'Naviya p',
