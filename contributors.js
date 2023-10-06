@@ -20,6 +20,13 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: '/workspaces/githober2023/images/thejaswini.jpg',
+        title: 'S THEJASWINI',
+        description: 'Hey',
+        github: 'https://github.com/S-Thejaswini/githober2023'
+    }
+    
 ];
 
 
