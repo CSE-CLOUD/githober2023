@@ -93,6 +93,15 @@ const contributors = [
         github: 'https://github.com/Rameesa-kt'
     },
 
+    
+    {
+        imgSrc: 'images/image NAVIYA.jpeg ',
+        title: 'Naviya p',
+        description: 'hello',
+        github: 'https://github.com/NAVIYA44'
+    },
+    
+    
     // Add more contributors here as needed
    
     
@@ -148,7 +157,7 @@ const contributors = [
         title: 'John Varghese Benny',
         description: 'nokanda njan tharoola',
         github: 'https://github.com/john-v-benny'
-    }
+    },
     
 
     {
