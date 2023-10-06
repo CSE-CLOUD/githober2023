@@ -20,6 +20,12 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: 'images/One-Piece.png',
+        title: 'ABHISHEK S',
+        description: 'hello',
+        github: 'https://github.com/abhi6174/githober2023.git'
+    }
 ];
 
 
