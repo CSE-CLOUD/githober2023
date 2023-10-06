@@ -16,21 +16,24 @@ const contributors = [
         github: 'https://github.com/Niyalurahman'
     },
 
+
     {
         imgSrc: '/workspaces/githober2023/images/Kanishka c.jpg',
         title: 'KANISHKA C',
         description: 'Self love',
         github: 'https://github.com/Kanishka-nssce'
     },
+  
     // Add more contributors here as needed
     /*
     
     COPY-PASTE BELOW TEMPLATE
+
     {
-        imgSrc: 'images/YOUR FILE NAME',
-        title: 'YOUR NAME',
-        description: 'WHAT'S IN YOUR MIND',
-        github: 'https://github.com/your-github-username'
+        imgSrc: 'images/akshara mohanan.jpeg',
+        title: 'AKSHARA MOHANAN',
+        description: 'SEE THE GOOD IN EVERYTHING',
+        github: 'https://github.com/akshara04mohanan'
     }
     */
   
@@ -82,6 +85,7 @@ const contributors = [
     },
     
 
+
     {
         imgSrc: 'images/merin.jpeg',
         title: 'MERIN P R',
@@ -123,6 +127,7 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 
 ];
 
