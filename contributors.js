@@ -8,6 +8,13 @@ const contributors = [
 
     },
 
+    {
+        imgSrc: 'images/ameya.jpg',
+        title: 'AMEYA SHYJU M',
+        description: 'Prioritize Your Peace',
+        github: 'https://github.com/AmeyaShyju'
+    },
+
     
     {
         imgSrc: 'images/Keerthana.jpg',
