@@ -20,6 +20,12 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: 'images/Mihikka.jpeg',
+        title: 'MIHIKKA',
+        description: 'Hello Everybody',
+        github: 'https://github.com/Mihikka'
+    }
 ];
 
 
