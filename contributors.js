@@ -29,6 +29,13 @@ const contributors = [
         github: 'https://github.com/Megha-hari'
     },
 
+    {
+        imgSrc: 'images/namitab.jpg',
+        title: 'Namita B',
+        description: 'It Was A good Day',
+        github: 'https://github.com/NamitaB164'
+    },
+
 
     
     {
@@ -71,6 +78,7 @@ const contributors = [
         github: 'https://github.com/Kanishka-nssce'
     },
   
+
 
 
 
