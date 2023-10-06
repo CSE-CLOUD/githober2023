@@ -5,6 +5,12 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
     },
+    {
+        imgSrc: 'images/sabari.webp',
+        title: 'sabari',
+        description: 'r',
+        github: 'https://github.com/sabarirnadh/githober2023'
+    }
     
   
   
