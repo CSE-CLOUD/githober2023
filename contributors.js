@@ -50,7 +50,7 @@ const contributors = [
 
 
     {
-        imgSrc: 'images/Kanishka c.jpg',
+        imgSrc: 'images/Kanishka_c.jpg',
         title: 'KANISHKA C',
         description: 'Self love',
         github: 'https://github.com/Kanishka-nssce'
@@ -118,6 +118,14 @@ const contributors = [
         github: 'https://github.com/ASHISH-28-02'
     },
     
+
+    {
+        imgSrc: 'images/flw (1).jpg',
+        title: 'KARISHMA PK',
+        description: 'GITHOBER 2023 ',
+        github: 'https://github.com/karishmapk/githober2023.git'
+    },
+
 
 
     {
