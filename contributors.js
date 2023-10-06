@@ -32,6 +32,13 @@ const contributors = [
 
     
     {
+
+        imgSrc: 'images/swarna n t.jpeg',
+        title: 'Swarna N T',
+        description: 'NSS College of engineering,a college that holds the natures beauty in its heart.',
+        github: 'https://github.com/Swarna-N-T'
+    },
+    {
         imgSrc: 'images/Keerthana.jpg',
         title: 'Keerthana S',
         description: 'Just learning and growing!',
@@ -64,6 +71,7 @@ const contributors = [
         github: 'https://github.com/Kanishka-nssce'
     },
   
+
 
 
     // Add more contributors here as needed
