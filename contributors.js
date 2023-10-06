@@ -22,9 +22,15 @@ const contributors = [
         description: 'WHAT'S IN YOUR MIND',
         github: 'https://github.com/your-github-username'
     }
-    
-    
-*/
+    */
+  
+    {
+        imgSrc: 'images/One-Piece.png',
+        title: 'ABHISHEK S',
+        description: 'hello',
+        github: 'https://github.com/abhi6174/githober2023.git'
+    },
+  
     {
 
         imgSrc: 'images/Aswini ks.jpg',
@@ -99,8 +105,6 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
-
-
 
 ];
 
