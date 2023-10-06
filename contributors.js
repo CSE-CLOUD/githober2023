@@ -15,6 +15,13 @@ const contributors = [
         github: 'https://github.com/AmeyaShyju'
     },
 
+    {
+        imgSrc: 'images/megha.jpg',
+        title: 'Megha P H',
+        description: 'Automate your workflow from idea to production!!',
+        github: 'https://github.com/Megha-hari'
+    },
+
     
     {
         imgSrc: 'images/Keerthana.jpg',
