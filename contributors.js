@@ -7,19 +7,17 @@ const contributors = [
     },
     
 
-    // Add more contributors here as needed
-    /*
     
-    COPY-PASTE BELOW TEMPLATE
+    
     {
-        imgSrc: 'images/YOUR FILE NAME',
-        title: 'YOUR NAME',
-        description: 'WHAT'S IN YOUR MIND',
-        github: 'https://github.com/your-github-username'
+        imgSrc: 'images/image NAVIYA.jpeg ',
+        title: 'Naviya p',
+        description: 'hello',
+        github: 'https://github.com/NAVIYA44'
     }
     
     
-    */
+
 ];
 
 
