@@ -36,6 +36,15 @@ const contributors = [
         github: 'https://github.com/aleena12joseph'
     },
 
+    {
+        imgSrc: 'images/theertha.jpg',
+        title: 'Theertha santhosh',
+        description: 'hello..!!!',
+        github: 'https://github.com/Theertha-santhosh/githober2023.git'
+            
+        },
+
+
 
     {
         imgSrc: 'images/namitab.jpg',
@@ -43,7 +52,6 @@ const contributors = [
         description: 'It Was A good Day',
         github: 'https://github.com/NamitaB164'
     },
-
 
     
     {
@@ -95,11 +103,20 @@ const contributors = [
 
     
     {
+
+        imgSrc: '/home/student/image6.jpg',
+        title: 'THEERTHA SANTHOSH',
+        description: 'Currently studing in Nss college of engineering',
+        github: 'https://github.com/Theertha-santhosh/githober2023.git'
+    },
+  {
+
         imgSrc: 'images/image NAVIYA.jpeg ',
         title: 'Naviya p',
         description: 'hello',
         github: 'https://github.com/NAVIYA44'
     },
+
     
     
     // Add more contributors here as needed
