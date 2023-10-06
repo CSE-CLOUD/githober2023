@@ -142,6 +142,13 @@ const contributors = [
         description: 'r',
         github: 'https://github.com/sabarirnadh/githober2023'
     },
+
+    {
+        imgSrc: 'images/just chilling.jpg',
+        title: 'John Varghese Benny',
+        description: 'nokanda njan tharoola',
+        github: 'https://github.com/john-v-benny'
+    }
     
 
     {
