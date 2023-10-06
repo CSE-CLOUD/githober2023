@@ -133,6 +133,12 @@ const contributors = [
         github: 'https://github.com/sabarirnadh/githober2023'
     },
     
+    {
+        imgSrc: 'images/Fathima K.jpg',
+        title: 'Fathima K',
+        description: 'Hey Collagues, Willing to Contribute!!',
+        github: 'https://github.com/FKTech123'
+    }
 
     {
         imgSrc: 'images/stretched-1920-1080-10323182.png',
