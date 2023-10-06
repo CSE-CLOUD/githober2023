@@ -6,6 +6,12 @@ const contributors = [
         github: 'https://github.com/SreejithMVarma'
     },
     {
+        imgSrc: 'images/Vedasree M.jpg',
+        title: 'VEDASREE M',
+        description: 'Embrace the journey, and let the code unfold!',
+        github: 'https://github.com/VedasreeM'
+    }
+    {
         imgSrc: 'images/ameya.jpg',
         title: 'AMEYA SHYJU M',
         description: 'Prioritize Your Peace',
