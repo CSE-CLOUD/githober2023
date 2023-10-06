@@ -5,6 +5,12 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
     },
+    {
+        imgSrc: '/workspaces/githober2023/images/Kanishka c.jpg',
+        title: 'KANISHKA C',
+        description: 'Self love',
+        github: 'https://github.com/Kanishka-nssce'
+    }
     
 
     // Add more contributors here as needed
@@ -20,6 +26,12 @@ const contributors = [
     
     
     */
+   {
+    imgSrc: '',
+    title: ''Kani'Kani''Kani'tors''Kani'Kan''Kani'Kani''Kani'tors''Kani'Kan
+
+
+   }
 ];
 
 
