@@ -20,6 +20,13 @@ const contributors = [
     
     
     */
+
+    {
+        imgSrc: 'images/advay.png',
+        title: 'Advay',
+        description: 'entha mwone jaada ano',
+        github: 'https://github.com/Advay004'
+    },
 ];
 
 
