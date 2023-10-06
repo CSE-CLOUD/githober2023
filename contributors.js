@@ -138,6 +138,13 @@ const contributors = [
         github: 'https://github.com/sabarirnadh/githober2023'
     },
     
+
+    {
+        imgSrc: '/workspaces/githober2023/images/thejaswini.jpg',
+        title: 'S THEJASWINI',
+        description: 'Hey',
+        github: 'https://github.com/S-Thejaswini/githober2023'
+    },
     {
         imgSrc: 'images/Fathima K.jpg',
         title: 'Fathima K',
@@ -152,8 +159,6 @@ const contributors = [
         github: 'https://github.com/arunvelloden'
     },
 
-  
-  
   
     {
         imgSrc: 'images/Ashish.jpg',
@@ -187,9 +192,6 @@ const contributors = [
     },
 
 
-
-  
-
     {
         imgSrc: 'images/vishnu_hari.png',
         title: 'VISHNU M',
@@ -197,8 +199,6 @@ const contributors = [
         github: 'https://github.com/vishnu-hari-sree'
     },
    
-
-
 
     {
         imgSrc: 'images/advay.png',
@@ -213,6 +213,7 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 
 
 ];
