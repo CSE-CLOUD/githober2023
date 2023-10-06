@@ -5,7 +5,54 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
     },
-    {
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
         imgSrc: 'images/Ashish.jpg',
         title: 'Ashish',
         description: 'WHATS IN YOUR MIND?',
@@ -17,7 +64,7 @@ const contributors = [
         title: 'RAYHANA S',
         description: 'HELLO WORLD',
         github: 'https://github.com/Rayhana27'
-    }
+    },
     // Add more contributors here as needed
     /*
     
@@ -31,12 +78,22 @@ const contributors = [
     
     
     */
+
+
+    {
+        imgSrc: 'images/advay.png',
+        title: 'Advay',
+        description: 'entha mwone jaada ano',
+        github: 'https://github.com/Advay004'
+    },
+
     {
         imgSrc: 'images/Mihikka.jpeg',
         title: 'MIHIKKA',
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 ];
 
 
