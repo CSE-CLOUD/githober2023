@@ -10,7 +10,7 @@ const contributors = [
         title: 'Ashish',
         description: 'WHATS IN YOUR MIND?',
         github: 'https://github.com/ASHISH-28-02'
-    }
+    },
     
     {
         imgSrc: 'images/Rayhana.jpg',
