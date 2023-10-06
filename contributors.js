@@ -4,8 +4,16 @@ const contributors = [
         title: 'Sreejith M Varma',
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
+
     },
-    
+
+     
+    {
+        imgSrc: 'images/1696584476904.jpg',
+        title: 'Niyalurahman',
+        description: 'Keep code and calm on',
+        github: 'https://github.com/Niyalurahman'
+    } 
 
     // Add more contributors here as needed
     /*
