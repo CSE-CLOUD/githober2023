@@ -73,7 +73,16 @@ const contributors = [
         title: 'MIHIKKA',
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
+    },
+
+    {
+        imgSrc: 'images/olli-the-polite-cat.jpg',
+        title: 'meow',
+        description: 'this is a cute cat',
+        github: 'https://github.com/Gajendra-Sonare'
     }
+
+    
 
 
 ];
