@@ -66,7 +66,7 @@ const contributors = [
         github: 'https://github.com/Niyalurahman'
     },
     {
-        imgSrc: 'images/Kanishka_c.jpg',
+        imgSrc: 'images/Kanishka c.jpg',
         title: 'KANISHKA C',
         description: 'Self love',
         github: 'https://github.com/Kanishka-nssce'
@@ -84,7 +84,7 @@ const contributors = [
         github: 'https://github.com/G0Dc0mpL3Xx'
     },
     {
-        imgSrc: '/home/student/image6.jpg',
+        imgSrc: '/images/theertha.jpg',
         title: 'THEERTHA SANTHOSH',
         description: 'Currently studying in Nss college of engineering',
         github: 'https://github.com/Theertha-santhosh/githober2023.git'
@@ -138,7 +138,7 @@ const contributors = [
         github: 'https://github.com/john-v-benny'
     },
     {
-        imgSrc: '/workspaces/githober2023/images/thejaswini.jpg',
+        imgSrc: 'images/thejaswini.jpg',
         title: 'S THEJASWINI',
         description: 'Hey',
         github: 'https://github.com/S-Thejaswini/githober2023'
