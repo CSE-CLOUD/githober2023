@@ -16,11 +16,19 @@ const contributors = [
     },
 
     {
+        imgSrc: 'images/anjana.jpg',
+        title: 'ANJANA S',
+        description: 'HELLOOO',
+        github: 'https://github.com/AnjanaS2004'
+    },
+
+    {
         imgSrc: 'images/megha.jpg',
         title: 'Megha P H',
         description: 'Automate your workflow from idea to production!!',
         github: 'https://github.com/Megha-hari'
     },
+
 
     
     {
