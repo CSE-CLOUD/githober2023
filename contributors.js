@@ -20,6 +20,12 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: 'images/merin.jpeg',
+        title: 'MERIN P R',
+        description: 'hey friends..!!',
+        github: 'https://github.com/Merin38pr'
+    }
 ];
 
 
