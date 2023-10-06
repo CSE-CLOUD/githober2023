@@ -86,10 +86,15 @@ const contributors = [
         github: 'https://github.com/Kanishka-nssce'
     },
   
+    {
+        imgSrc: 'images/RAMEESA.jpeg',
+        title: 'RAMEESA.KT',
+        description: 'HI',
+        github: 'https://github.com/Rameesa-kt'
+    },
 
     // Add more contributors here as needed
-    
-
+   
     
 
     {
@@ -145,6 +150,7 @@ const contributors = [
         description: 'Hey',
         github: 'https://github.com/S-Thejaswini/githober2023'
     },
+  
     {
         imgSrc: 'images/Fathima K.jpg',
         title: 'Fathima K',
@@ -213,7 +219,6 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
-
 
 
 ];
