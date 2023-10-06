@@ -20,6 +20,13 @@ const contributors = [
     
     
     */
+    {
+        imgSrc: 'images/vishnu_hari.png',
+        title: 'VISHNU M',
+        description: '"Simplicity is the soul of efficiency.☺"',
+        github: 'https://github.com/vishnu-hari-sree'
+    }
+   
 ];
 
 
