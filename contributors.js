@@ -101,6 +101,18 @@ const contributors = [
         github: 'https://github.com/Rameesa-kt'
     },
 
+
+
+    
+   
+    {
+        imgSrc: 'images/hello23.jpg',
+        title: 'c0mPL3Xx',
+        description: 'THERE IS NOTHING YOU CAN DO',
+        github: 'https://github.com/G0Dc0mpL3Xx'
+    },
+    
+
     
     {
 
