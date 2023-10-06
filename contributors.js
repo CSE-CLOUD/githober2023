@@ -7,19 +7,16 @@ const contributors = [
     },
     
 
-    // Add more contributors here as needed
-    /*
-    
-    COPY-PASTE BELOW TEMPLATE
+   
     {
-        imgSrc: 'images/YOUR FILE NAME',
-        title: 'YOUR NAME',
-        description: 'WHAT'S IN YOUR MIND',
-        github: 'https://github.com/your-github-username'
+        imgSrc: 'images/akshara mohanan.jpeg',
+        title: 'AKSHARA MOHANAN',
+        description: 'SEE THE GOOD IN EVERYTHING',
+        github: 'https://github.com/akshara04mohanan'
     }
     
     
-    */
+    
 ];
 
 
