@@ -5,7 +5,17 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
 
+
     },
+
+     
+    {
+        imgSrc: 'images/1696584476904.jpg',
+        title: 'Niyalurahman',
+        description: 'Keep code and calm on',
+        github: 'https://github.com/Niyalurahman'
+    },
+
     {
         imgSrc: '/workspaces/githober2023/images/Kanishka c.jpg',
         title: 'KANISHKA C',
