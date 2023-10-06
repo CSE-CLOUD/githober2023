@@ -83,17 +83,26 @@ const contributors = [
 
 
     // Add more contributors here as needed
-    /*
     
-    COPY-PASTE BELOW TEMPLATE
+
+    
+
+    {
+        imgSrc: 'images/smile.jpeg',
+        title: 'Smile',
+        description: 'Happy',
+        github: 'https://github.com/RamyaSree7999'
+
+    },
 
     {
         imgSrc: 'images/akshara mohanan.jpeg',
         title: 'AKSHARA MOHANAN',
         description: 'SEE THE GOOD IN EVERYTHING',
         github: 'https://github.com/akshara04mohanan'
-    }
-    */
+
+    },
+
   
     {
         imgSrc: 'images/One-Piece.png',
@@ -193,7 +202,6 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
-
 
 ];
 
