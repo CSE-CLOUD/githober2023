@@ -5,7 +5,12 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
     },
-    
+    {
+        imgSrc: 'images/icon.png',
+        title: 'Nayanjith',
+        description: 'Coding time',
+        github: 'https://github.com/rcDARK'
+    }
 
     // Add more contributors here as needed
     /*
