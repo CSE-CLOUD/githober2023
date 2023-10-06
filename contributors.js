@@ -8,18 +8,18 @@ const contributors = [
     
 
     // Add more contributors here as needed
-    /*
     
-    COPY-PASTE BELOW TEMPLATE
+    
+
     {
-        imgSrc: 'images/YOUR FILE NAME',
-        title: 'YOUR NAME',
-        description: 'WHAT'S IN YOUR MIND',
-        github: 'https://github.com/your-github-username'
+        imgSrc: 'images/smile.jpeg',
+        title: 'Smile',
+        description: 'Happy',
+        github: 'https://github.com/RamyaSree7999'
     }
     
     
-    */
+    
 ];
 
 
