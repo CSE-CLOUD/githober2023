@@ -6,7 +6,12 @@ const contributors = [
         github: 'https://github.com/SreejithMVarma'
     },
     
-
+    {
+        imgSrc: 'images/stretched-1920-1080-10323182.png',
+        title: 'MESSI',
+        description: 'KING 👑',
+        github: 'https://github.com/arunvelloden'
+    }
     // Add more contributors here as needed
     /*
     
