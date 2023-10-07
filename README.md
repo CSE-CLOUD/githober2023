@@ -16,6 +16,7 @@ This session was all about learning and growing together. The event, spanning fr
 ## The Speakers
 
 <div style="display: flex; justify-content: space-between;">
+
 #### [SREEJITH M VARMA](https://github.com/SreejithMVarma)
 <img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg" alt="Sreejith M Varma" width="670" height="500" />
 
