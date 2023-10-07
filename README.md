@@ -1,15 +1,18 @@
 # GitHober 2023 - Hacktoberfest Event
 
 
-![GitHober 2023 Logo](https://github.com/VedasreeM/Githober23/blob/main/githober_banner.png)
+![GitHober 2023 Logo](https://github.com/VedasreeM/Githober23/blob/main/githober_banner.png =500x250)
 
 
 ## About the event
 
 
 The GitHober 2023 was an event aimed to familiarize newcomers with different aspects of open source, such as maintaining repositories and contributing to open source projects. Additionally, attendees learnt the basics of Git and GitHub.
+
 This event was held in partnership with Hacktoberfest 2023 and was exclusively available to members of the organizing institution at the time.
+
 Git cheat sheets and some cool Git swag stickers were distributed as everyone made their first contribution on GitHub ! The result of the collaborative project is given below .
+
 This session was all about learning and growing together. The event, spanning from 1 to 4 pm, was an absolute success! 
 
 
