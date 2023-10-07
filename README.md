@@ -9,7 +9,7 @@
 
 The GitHober 2023 was an event aimed to familiarize newcomers with different aspects of open source, such as maintaining repositories and contributing to open source projects. Additionally, attendees learnt the basics of Git and GitHub.
 
-This event was held in partnership with Hacktoberfest 2023 and was exclusively available to members of the organizing institution at the time.
+This event was held in partnership with Hacktoberfest 2023 and was exclusively available to members of the organizing institution present at the time.
 
 Git cheat sheets and some cool Git swag stickers were distributed as everyone made their first contribution on GitHub ! The result of the collaborative project is given below .
 
