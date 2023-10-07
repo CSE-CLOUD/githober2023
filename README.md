@@ -24,7 +24,7 @@ This session was all about learning and growing together. The event, spanning fr
 
 # VEDASREE M
 ![GitHober 2023 Logo](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg)
-[<span style="font-size: 80px;">VEDASREE M</span>](https://github.com/VedasreeM)
+[<span style="font-size: 80px;"># VEDASREE M</span>](https://github.com/VedasreeM)
 
 ## Result of the Collaborated Project
 
