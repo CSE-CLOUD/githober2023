@@ -5,12 +5,23 @@ const contributors = [
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
     },
+
+    
+    {
+        imgSrc: 'images/noelgithobber.jpg',
+        title: 'Noel Tom Santhosh',
+        description: 'nothing much to say',
+        github: 'https://github.com/noelty'
+    },
+
+
     {
         imgSrc: 'images/Vedasree M.jpg',
         title: 'VEDASREE M',
         description: 'Embrace the journey, and let the code unfold!',
         github: 'https://github.com/VedasreeM'
-    }
+    },
+  
     {
         imgSrc: 'images/ameya.jpg',
         title: 'AMEYA SHYJU M',
@@ -198,6 +209,7 @@ const contributors = [
         description: 'Hello Everybody',
         github: 'https://github.com/Mihikka'
     }
+
 ];
 
 module.exports = contributors;
