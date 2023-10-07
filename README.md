@@ -15,18 +15,18 @@ This session was all about learning and growing together. The event, spanning fr
 
 ## The Speakers
 
-
+<div style="display: flex; justify-content: space-between;">
 #### [SREEJITH M VARMA](https://github.com/SreejithMVarma)
 <img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg" alt="Sreejith M Varma" width="670" height="500" />
 
 
 #### [VEDASREE M](https://github.com/VedasreeM)
 <img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg" alt="Vedasree M" width="670" height="500" />
-
+</div>
 
 ## Result of the Collaborated Project
 
-##### DO CHECK OUT THE BELOW LINK 
+##### DO CHECK OUT THE BELOW LINK !
 
 
 - [GITHOBER'23](https://cse-cloud.github.io/githober2023/)
