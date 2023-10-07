@@ -1,7 +1,7 @@
 # GitHober 2023 - Hacktoberfest Event
 
 
-![GitHober 2023 Logo](https://github.com/VedasreeM/Githober23/blob/main/githober_banner.png =500x)
+![GitHober 2023 Logo](https://github.com/VedasreeM/Githober23/blob/main/githober_banner.png)
 
 
 ## About the event
