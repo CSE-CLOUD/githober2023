@@ -29,7 +29,7 @@ This session was all about learning and growing together. The event, spanning fr
 
 ## Result of the Collaborated Project
 
-##### DO CHECK OUT THE BELOW LINK !
+DO CHECK OUT THE BELOW LINK !
 
 
 - [GITHOBER'23](https://cse-cloud.github.io/githober2023/)
