@@ -16,11 +16,13 @@ This session was all about learning and growing together. The event, spanning fr
 ## The Speakers
 
 <div style="display: inline-block; width: 48%;">
+
 #### [SREEJITH M VARMA](https://github.com/SreejithMVarma)
 <img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg" alt="Sreejith M Varma" style="width: 40%; height: auto;" />
 </div>
 
 <div style="display: inline-block; width: 48%;">
+
 #### [VEDASREE M](https://github.com/VedasreeM)
 <img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg" style="width: 40%; height: auto;" />
 </div>
