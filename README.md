@@ -18,11 +18,11 @@ This session was all about learning and growing together. The event, spanning fr
 <div style="display: flex; justify-content: space-between;">
 
 #### [SREEJITH M VARMA](https://github.com/SreejithMVarma)
-<img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg" alt="Sreejith M Varma" style="width: 48%; height: auto;" />
+<img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg" alt="Sreejith M Varma" style="width: 40%; height: auto;" />
 
 
 #### [VEDASREE M](https://github.com/VedasreeM)
-<img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg" style="width: 48%; height: auto;" />
+<img src="https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg" style="width: 40%; height: auto;" />
 </div>
 
 ## Result of the Collaborated Project
