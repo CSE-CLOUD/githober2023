@@ -31,7 +31,7 @@ This session was all about learning and growing together. The event, spanning fr
 
 ## RESULT OF THE COLLABORATED PROJECT
 
-Do check out the below Link !
+Do check out the below link to see our work
 
 [https://cse-cloud.github.io/githober2023/](https://cse-cloud.github.io/githober2023/)
 
