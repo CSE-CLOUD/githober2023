@@ -15,7 +15,7 @@ Git cheat sheets and some cool Git swag stickers were distributed as everyone ma
 This session was all about learning and growing together. The event, spanning from 1 to 4 pm, was an absolute success! 
 
 
-## The Speakers
+#### The Speakers
 
 
 # [SREEJITH M VARMA](https://github.com/SreejithMVarma)
