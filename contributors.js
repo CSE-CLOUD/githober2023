@@ -170,7 +170,7 @@ const contributors = [
     {
         imgSrc: 'images/Ashish.jpg',
         title: 'Ashish',
-        description: 'WHATS IN YOUR MIND?',
+        description: 'Strength doesn\'t come from what you can do; it comes from overcoming the things you once thought you couldn\'t.',
         github: 'https://github.com/ASHISH-28-02'
     },
     {
@@ -188,7 +188,7 @@ const contributors = [
     {
         imgSrc: 'images/Rayhana.jpg',
         title: 'RAYHANA S',
-        description: 'HELLO WORLD',
+        description: 'Common sense is like a Unicorn. Some people claim it exists, but I\'m still on a quest to find it',
         github: 'https://github.com/Rayhana27'
     },
     {
