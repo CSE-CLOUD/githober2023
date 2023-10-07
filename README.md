@@ -18,15 +18,13 @@ This session was all about learning and growing together. The event, spanning fr
 ## The Speakers
 
 
-SREEJITH M VARMA
-![SreejithMVarma](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg)
-- [SreejithMVarma](https://github.com/SreejithMVarma)
+# SREEJITH M VARMA
+![SreejithMVarma](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg)- [SreejithMVarma](https://github.com/SreejithMVarma)
 
 
+# VEDASREE M
 ![GitHober 2023 Logo](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg)
-VEDASREE M
-- [VedasreeM](https://github.com/VedasreeM)
-
+[<span style="font-size: 24px;">VEDASREE M</span>](https://github.com/VedasreeM)
 
 ## Result of the Collaborated Project
 
