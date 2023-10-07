@@ -14,13 +14,17 @@ This session was all about learning and growing together. The event, spanning fr
 
 
 ## The Speakers
-| ![Image 1 Alt Text](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg) | ![Image 2 Alt Text](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg) |
 
-| 
+| -------------------------- | -------------------------- |
+
 #### [SREEJITH M VARMA](https://github.com/SreejithMVarma)
-|
+| ![Sreejith M Varma](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Sreejith%20m%20varma.jpg) | 
 #### [VEDASREE M](https://github.com/VedasreeM)
+![Image 2 Alt Text](https://github.com/ASHISH-28-02/Githober2023/blob/main/images/Vedasree%20M.jpg) 
+ 
 |
+
+
 
 ## Result of the Collaborated Project
 
