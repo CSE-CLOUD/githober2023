@@ -7,6 +7,23 @@
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css' rel='stylesheet'>
     <link href='https://use.fontawesome.com/releases/v5.8.1/css/all.css' rel='stylesheet'>
     <style>
+        .card-img-top {
+            max-height: 250px;
+            overflow: hidden;
+        }
+
+        .card-title a:link {
+            font-size: 30px;
+            background-color: transparent;
+            color: #000000;
+            text-decoration: none;
+        }
+
+        .card-title a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
 
         .header {
             display: flex;
@@ -62,12 +79,6 @@
                 margin-left: auto;
                 margin-right: auto;
             }
-
-            .card-img-top {
-    width: 100%;
-    height: 200px; /* Adjust the height as needed */
-    object-fit: cover;
-}
         }
     </style>
     <script type='text/javascript' src=''></script>
@@ -94,40 +105,54 @@
 
     <section class="bg-light py-4 my-5">
         <div class="container">
-            <h1>GitHober 2023 - Hacktoberfest Event</h1>
-        
-            <img src="/githober_banner.png" alt="GitHober 2023 Logo" width="100%">
-        
-            <h2>About the Event</h2>
-            <p>The GitHober 2023 was an event aimed to familiarize newcomers with different aspects of open source, such as maintaining repositories and contributing to open source projects. Additionally, attendees learnt the basics of Git and GitHub.</p>
-            <p>This event was held in partnership with Hacktoberfest 2023 and was exclusively available to members of the organizing institution present at the time.</p>
-            <p>Git cheat sheets and some cool Git swag stickers were distributed as everyone made their first contribution on GitHub! The result of the collaborative project is given below.</p>
-            <p>This session was all about learning and growing together. The event, spanning from 1 to 4 pm, was an absolute success!</p>
-        
-            <h2>The Speakers</h2>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="card">
-                        <a href="https://sreejithmvarma.in/" target="_blank">
-                            <img src="/images/Sreejith m varma.jpg" class="card-img-top" alt="Sreejith M Varma">
-                        </a>
-                        <div class="card-body">
-                            <h5 class="card-title"><a href="https://sreejithmvarma.in/" class="text-dark text-decoration-none" target="_blank">Sreejith M Varma</a></h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="card">
-                        <a href="https://github.com/VedasreeM" target="_blank">
-                            <img src="/images/Vedasree M.jpg" class="card-img-top" alt="Vedasree M">
-                        </a>
-                        <div class="card-body">
-                            <h5 class="card-title"><a href="https://github.com/VedasreeM" class="text-dark text-decoration-none" target="_blank">Vedasree M</a></h5>
-                        </div>
-                    </div>
-                </div>
+            <div class="row" id="cardContainer">
+                <!-- Cards will be dynamically added here -->
             </div>
-          </div>
+        </div>
     </section>
+
+    <script src="contributors.js"></script>
+    <script>
+        const cardContainer = document.getElementById('cardContainer');
+
+        contributors.forEach(contributor => {
+            const cardCol = document.createElement('div');
+            cardCol.className = 'col-md-6 col-lg-4';
+
+            const card = document.createElement('div');
+            card.className = 'card my-3';
+
+            const img = document.createElement('img');
+            img.src = contributor.imgSrc;
+            img.className = 'card-img-top';
+            img.alt = 'thumbnail';
+
+            const cardBody = document.createElement('div');
+            cardBody.className = 'card-body';
+
+            const cardTitle = document.createElement('h3');
+            cardTitle.className = 'card-title';
+            const titleLink = document.createElement('a');
+            titleLink.href = contributor.github; // Link to GitHub
+            titleLink.target = '_blank'; // Open in new tab
+            titleLink.className = 'text-secondary';
+            titleLink.textContent = contributor.title;
+            cardTitle.appendChild(titleLink);
+
+            const cardText = document.createElement('p');
+            cardText.className = 'card-text';
+            cardText.textContent = contributor.description;
+
+            cardBody.appendChild(cardTitle);
+            cardBody.appendChild(cardText);
+
+            card.appendChild(img);
+            card.appendChild(cardBody);
+ 
+            cardCol.appendChild(card);
+
+            cardContainer.appendChild(cardCol);
+        });
+    </script>
 </body>
 </html>
