@@ -1,6 +1,6 @@
 const contributors = [
     {
-        imgSrc: 'images/Sreejith m varma.jpg',
+        imgSrc: 'images/Sreejith_m_varma.jpg',
         title: 'Sreejith M Varma',
         description: 'Hey Folks!👋🏻',
         github: 'https://github.com/SreejithMVarma'
@@ -16,7 +16,7 @@ const contributors = [
 
 
     {
-        imgSrc: 'images/Vedasree M.jpg',
+        imgSrc: 'images/Vedasree_M.jpg',
         title: 'VEDASREE M',
         description: 'Embrace the journey, and let the code unfold!',
         github: 'https://github.com/VedasreeM'
