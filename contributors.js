@@ -188,7 +188,7 @@ const contributors = [
     {
         imgSrc: 'images/Rayhana.jpg',
         title: 'RAYHANA S',
-        description: 'Common sense is like a Unicorn. Some people claim it exists, but I\'m still on a quest to find it',
+        description: 'Irony is a cruel mistress indeed',
         github: 'https://github.com/Rayhana27'
     },
     {
